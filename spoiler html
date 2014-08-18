@@ -1,0 +1,5 @@
+<label class="spoiler">
+    <input type="checkbox" style="display:none">
+    <div class="title">Title</div>
+    <div class="body">Lorem ipsum dolor sit amet consectepture adipisicing elit sed do eiusmod.</div>
+</label>
